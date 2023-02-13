@@ -5,7 +5,7 @@ div {
 body{
     margin :0;
     padding :0;
-    background-color:rgb(190, 190, 241);
+    background-color:rgba(85, 57, 19, 0.842);
     background-repeat: no-repeat;   
 }
 
@@ -73,7 +73,7 @@ hr{
     border-width: 1px;
 }
 .boxPort{
-    width: 450px;
+    width: 900px;
     background:rgba(172, 118, 38, 0.575);
     background-position: right;
     text-align: center ;
