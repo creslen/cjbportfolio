@@ -6,7 +6,8 @@ body{
     margin :0;
     padding :0;
     background-color:rgba(85, 57, 19, 0.842);
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;  
+    background-size: cover; 
 }
 
 .box-img{
